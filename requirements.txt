@@ -1,0 +1,5 @@
+scikit-learn==0.22.2.post1
+nltk==3.4.5
+xgboost==1.0.2
+pandas
+tk

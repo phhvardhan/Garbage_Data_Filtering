@@ -1,0 +1,12 @@
+name: AOA
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - scikit-learn
+  - nltk
+  - xgboost
+  - pandas
+  - pip
+  - pip:
+      - tk
